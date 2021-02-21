@@ -10,7 +10,11 @@ Dependências:
 
 # Gems
 
-* pg
 * devise
+* factory_bot_rails
+* faker
+* pg
+* respec-rails
+* shoulda-matchers
 
 
