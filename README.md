@@ -3,10 +3,12 @@
 Requisitos:
 * Ruby 2.7.2
 * Rails 6.1.3
+* Postgresql
 
 Dependências:
 * Node
 * Yarn
+* redis
 
 # Gems
 
@@ -16,5 +18,6 @@ Dependências:
 * pg
 * respec-rails
 * shoulda-matchers
+* sidekiq
 
 
